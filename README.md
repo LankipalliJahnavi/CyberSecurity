@@ -1,3 +1,4 @@
+02-feb
 CyberSecurity : Protecting Systems and network Security and preventing anauthorized access.
 Three types of security - Physical Control, Logical Control, Administrative Control
 these are called as defence in depth
@@ -15,6 +16,6 @@ Hacking as a process: Stages and lifecycle
 4.Maintaining access
 5.Clear the footprint
 Ethical hacking - getting permission from target
-hcking - without permission from target.
+hacking - without permission from target.
 
 
